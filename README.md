@@ -1,8 +1,8 @@
 Hi, I’m Santosh.
 I’m interested in autonomous vehicles and mobile robots.
-I’m currently learning computer vision and sensor fusion. 
+Currently learning computer vision and sensor fusion. 
 I’m open to collaborate on Adas and perception robot projects.
-you can reach me through Linkedin at https://www.linkedin.com/in/santosh-kumar-kasam-30a47a109/
+Reach me at https://www.linkedin.com/in/santoshkasam/ 
 
 <!---
 Santoshkasam/Santoshkasam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
