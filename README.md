@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://www.linkedin.com/in/santoshkasam/" />][linkedin]
+[<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />][linkedin]
 
 <br />
 </details>
