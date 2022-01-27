@@ -13,7 +13,9 @@
 [<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://www.linkedin.com/in/santoshkasam/" />][linkedin]
 
 <br />
+</details>
 
+[linkedin]: https://www.linkedin.com/in/santoshkasam/
 
 <!---
 Santoshkasam/Santoshkasam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
