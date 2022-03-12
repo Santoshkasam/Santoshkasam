@@ -5,7 +5,7 @@
 - 🔭 I am currently developing object detection algorithms for noisy LiDAR point clouds!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other ADAS / Computer Vision engineers
-- 🥅 2020 Goals: Commit regularly and write more and more code!!
+- 🥅 2020 Goals: Commit regularly and write more and more code in c++!!
 - ⚡ Fun fact: I love to sing and read.
 
 ### Connect with me:
