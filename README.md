@@ -1,6 +1,6 @@
 ### Hi there, I'm Santosh 👋 
 
-## I'm an Autonomous mobility enthusiast and a perception engineer!!
+## I'm an Autonomous mobility enthusiast!!
 
 - 🔭 I am currently developing object detection algorithms for noisy LiDAR point clouds!
 - 🌱 I’m currently learning CUDA
